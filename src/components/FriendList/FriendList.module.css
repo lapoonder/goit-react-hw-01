@@ -1,0 +1,12 @@
+.friendsСontainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 10px;
+}
+
+.friendsСontainer li {
+  padding: 10px;
+  border: 2px solid #000000;
+  border-radius: 6px;
+}
