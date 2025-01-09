@@ -102,6 +102,10 @@ body {
   padding-bottom: 0;
 }
 
+.footer {
+  height: 32px;
+}
+
 /* Styles for Tablet devices */
 @media (min-width: 768px) {
   .section,
